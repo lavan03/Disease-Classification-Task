@@ -61,8 +61,6 @@ Example performance (Logistic Regression):
 Accuracy: 76%
 
 Classification Report:
-- Macro F1 Score: 0.71
-- Weighted F1 Score: 0.71
 - Good performance on majority classes
 - Some underperformance on minority categories
 
